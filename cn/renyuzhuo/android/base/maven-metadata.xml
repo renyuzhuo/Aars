@@ -3,12 +3,13 @@
   <groupId>cn.renyuzhuo.android</groupId>
   <artifactId>base</artifactId>
   <versioning>
-    <release>0.0.1.2</release>
+    <release>0.0.1.3-beta</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.1.1</version>
       <version>0.0.1.2</version>
+      <version>0.0.1.3-beta</version>
     </versions>
-    <lastUpdated>20190331170102</lastUpdated>
+    <lastUpdated>20190331183256</lastUpdated>
   </versioning>
 </metadata>
